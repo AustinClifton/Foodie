@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>PlayfairDisplay-VariableFont_wght.ttf</string>
+		<string>ChakraPetch-Bold.ttf</string>
+	</array>
+	<key>YELP_API_KEY</key>
+	<string>utoCP1DJiF01wkUuj62tHM-V0naFIxhjrU8kF1qqdXfOGEH8E7aVY4X_nnrlyD0Qsltvs0OrB6FEsREKwEUS9z5VHJIe98kDb8WmpZ2e7Gno6OOg4RVDY3Cm2qxAZ3Yx</string>
+	<key>YELP_CLIENT_ID</key>
+	<string>IYZnZpswIEdAnrBMwtZU_A</string>
+</dict>
+</plist>
